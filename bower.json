@@ -1,0 +1,27 @@
+{
+  "name": "jquery-infinity-scroll",
+  "version": "0.1.0",
+  "homepage": "https://github.com/kmarques/jquery-infinity-scroll",
+  "authors": [
+    "Karl Marques <marques.karl@live.fr>"
+  ],
+  "main": ["js/infinity-scroll.js"],
+  "keywords": [
+    "list",
+    "infinity",
+    "scroll",
+    "manage",
+    "jquery"
+  ],
+  "dependencies": {
+    "jquery": ">=1.9.0 <2.0.0"
+  },
+  "license": "Apache License, Version 2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
